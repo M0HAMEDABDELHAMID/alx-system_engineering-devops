@@ -1,2 +1,2 @@
 #!/bin/bash
-peri -ine 'print if $. %2 ==1'
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
